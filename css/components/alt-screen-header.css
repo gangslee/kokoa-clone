@@ -6,6 +6,10 @@
   align-items: center;
 }
 
+.alt-header__column {
+  width: 33%;
+}
+
 .alt-header__title {
   font-size: 28px;
   font-weight: 600;
@@ -15,10 +19,17 @@
   margin-right: auto;
 }
 
-.alt-header__column:last-child {
-  margin-left: auto;
+.alt-header__column:nth-child(2) {
+  margin-right: auto;
+  text-align: center;
 }
 
-.alt-header__column i:last-child {
-  margin-left: 10px;
+.alt-header__column:last-child {
+  margin-left: auto;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.alt-header__column span:last-child {
+  margin-left: 20px;
 }
