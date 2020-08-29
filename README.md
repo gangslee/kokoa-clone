@@ -1,11 +1,5 @@
 # Kokoa Clone
 
-Learning HTML & CSS...
-
-URL : https://gangslee.github.io/kokoa-clone/
-
-# Kokoa Clone
-
 KakaoTalk clone coding from NomadCoder with HTML & CSS
 
 ## Summary
